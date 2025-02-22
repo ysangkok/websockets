@@ -4,7 +4,7 @@ flags:
   websockets:
     example: true
 extra-deps:
-- 'hakyll-4.15.1.0'
+- 'hakyll-4.16.6.0'
 nix:
   packages:
   - 'zlib'
